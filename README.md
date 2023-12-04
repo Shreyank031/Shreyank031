@@ -11,7 +11,9 @@
 
 - 📫 How to reach me **shreysms31@gmail.com**
 
+- ⚡ Fun fact **I use Arch and vim**
 
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
