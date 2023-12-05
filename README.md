@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyank031&label=Profile%20views&color=0e75b6&style=flat" alt="shreyank031" /> </p>
 
-- 🔭 I’m currently working on **upskilling myself in using the tools and technologies used in DevOps**
+- 🔭 I'm actively **enhancing my proficiency in DevOps tools and technologies to fortify my skill set.**
 
 - 🌱 I’m currently learning **Python and Django**
 
