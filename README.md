@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shreyank</h1>
-<h3 align="center">Hello everyone. Iam a passionate student who is facinated about DevOps and cloud. From here on I will be posting my progress and projects in Github. I think I have started late but not too late.</h3>
+<h3 align="center">Hello everyone. Iam a passionate student who is facinated about Android and Cloud.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyank031&label=Profile%20views&color=0e75b6&style=flat" alt="shreyank031" /> </p>
 
-- 🔭 I'm actively **enhancing my proficiency in DevOps tools and technologies to fortify my skill set.**
+- 🔭 I'm actively **growing**
 
-- 🌱 I’m currently learning **Python and Django**
-
-- 💬 Ask me about **Docker, Kubernetes, Linux**
+- 🌱 I’m currently learning **Kotlin**
 
 - 📫 How to reach me **shreysms31@gmail.com**
 
