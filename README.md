@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyank031&label=Profile%20views&color=0e75b6&style=flat" alt="shreyank031" /> </p>
 
-- 🔭 I’m currently working on concepts related to **Jetpack Compose**
-
-- 🌱 I’m currently learning **Android app development and Golang**
+- 🌱 I’m currently learning **Golang**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shreyank031](https://github.com/Shreyank031)
 
