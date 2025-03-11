@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shreyank C M</h1>
-<h3 align="center">"Hello everyone! I am a passionate student fascinated by Android and Cloud technologies. I have a strong interest in the Android operating system, Linux, and Cloud computing."</h3>
+<h3 align="center">"Hello everyone! I am a passionate DevOps Engineer. I have a strong interest in the Android operating system, Linux, and Cloud computing."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyank031&label=Profile%20views&color=0e75b6&style=flat" alt="shreyank031" /> </p>
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **Golang**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shreyank031](https://github.com/Shreyank031)
 
